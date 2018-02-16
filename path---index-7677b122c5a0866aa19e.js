@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{392:function(e,o){e.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"Your next, great blog post goes here",id:"C:/Users/jason/Projects/zen-of-cookie/src/pages/2018-02-16-hello-world/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Hello World",date:"February 16, 2018",path:"/hello-world"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-7677b122c5a0866aa19e.js.map
