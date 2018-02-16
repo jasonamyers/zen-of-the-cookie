@@ -15,5 +15,5 @@ module.exports = {
         plugins: [] // just in case those previously mentioned remark plugins sound cool :)
       }
     }],
-  pathPrefix: '/zen-of-the-cookie'
+  // pathPrefix: '/zen-of-the-cookie'
 };
